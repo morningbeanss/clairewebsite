@@ -1,0 +1,100 @@
+---
+title: "Portfolio"
+toc: true
+execute:
+  freeze: auto 
+---
+
+
+### Creative Technology
+
+::: {layout-ncol=3}
+
+:::{.div .portfolio}
+[![[Bruna Tavares: Colorfeel]{.bold}](posts/imgs/portfolio/colorfeel.png){fig-alt="App logo that says Colorfeel by Bruna Tavares. A pink, circular, eye-inspired graphic is above the text."}](https://www.colorfeel.app/)
+
+* A tool to help low- and no-vision people select makeup to fit their skin tone, mood, and style
+* Use AI to meticulously craft more compelling color descriptions for makeup shades based on non-visual cues (such as textures, temperatures, flavors, etc.)
+:::
+
+:::{.div .portfolio}
+[![[Honda: Scenic Audio]{.bold}](posts/imgs/portfolio/scenicaudio.png){fig-alt="logo for project that says 'scenic audio' with wavy lines behind it. Honda logo above scenic audio logo"}](https://www.scenicaudio.info/)
+
+* Use realtime data and AI to describe road trip scenery and attractions for those with low- or no-vision
+* Try the non-driving version [here](https://www.scenicaudio.app/experience){.portfolio}
+* Featured in [BBC TopGear](https://www.topgear.com/car-news/tech/honda-creates-app-help-blind-occupants-see-out-car-window){.portfolio}
+:::
+
+:::{.div .portfolio}
+[![[Sherwin-Williams: Speaking in Color]{.bold}](posts/imgs/portfolio/sic.png){fig-alt="App logo that says Speaking In Color: Think it, Say it, See it. On top of green and blue background"}](https://speakingincolor.app/)
+
+* Converting words to colors to data and back again
+* [2022 Cannes Lions Winner: Creative B2B (Grand Prix, Silver) & Digital Craft (Bronze)](https://www.wundermanthompson.com/news/grand-prix-for-speaking-in-color){.portfolio}
+:::
+
+:::{.div .portfolio}
+[![[Smallpox Modern Threat]{.bold}](posts/imgs/portfolio/smallpox.png){fig-alt="logo for project that says 'smallpox modern threat'"}](https://www.mmm-online.com/home/channel/wundermans-smallpox-simulator-models-outbreaks-to-chilling-effect/)
+
+* Disease modeling and data visualizations
+* [2022 LIA Bronze Award: Health & Wellness Creative Use of Data](https://www.liaentries.com/winners/?id_entry=106428&id_medium=28&id_submedium=80&id_category=0&view=details&range=f&page=8&keyword=&medium=28,31&category=&award=b&country=&title_brand=&credits=&company_name=&city=&proceed_simple_search=false&proceed_advanced_search=true){.portfolio}
+* [MM+M Silver Award: Global Campaign 2022](https://www.mmm-online.com/mmm-awards/global-campaign-2022/){.portfolio}
+:::
+
+:::{.div .portfolio}
+[![[AIran]{.bold}](posts/imgs/portfolio/airan.png){fig-alt="collage editorial style image that includes faces of two women and maps of Iran, overlayed with text that reads: So what will define the future history of Iran?"}](https://www.rewriteiran.com/)
+
+* A history book from the future, written by AI, that tells the dire future of women's rights in Iran if we don't do anything today to make a change
+* Created in partnership with the [Iran Democracy Council](https://irandemocracycouncil.com/){.portfolio}
+:::
+
+:::{.div .portfolio}
+[![[Hungerstation: Subconscious Order]{.bold}](posts/imgs/portfolio/hungerstation.png){fig-alt="words"}](https://findmycraving.com/)
+
+* Tap into your subconscious to find out what you're really in the mood to eat
+* [2023 Dubai Lynx Winner: Mobile (Grand Prix) and Digital (Silver)](https://www.dubailynx.com/hala-lynx/2023-dubai-lynx-winners-announced){.portfolio}
+* [2023 Cannes Lions Winner: Creative Commerce (Grand Prix)](https://www.wundermanthompson.com/news/cannes-lions-2023-news){.portfolio}
+:::
+:::
+
+### Quarto Projects
+
+::: {layout="[30,-5,30,-5,30]"}
+[![[Seabuck: Logs from my month at sea]{.portfolio}](posts/imgs/portfolio/seabuck.jpg){fig-alt="Image of four people smiling, one of whom (caro) is holding up a lantern fish with tweezers."}](https://seabuck.netlify.app/)
+
+[![[Party Invitation]{.portfolio}](posts/imgs/portfolio/frolitea.png){fig-alt="screenshot of invitation to a holiday party, with an image of the Boston tea party"}](https://frolitea-spectacular.netlify.app/)
+
+[![[My sister wrote a book, I helped format and edit it. (under construction)]{.portfolio}](posts/imgs/portfolio/restricted_files.png){fig-alt="image with book title: the restricted files."}](https://restricted-files.netlify.app/)
+:::
+
+### Visualizations
+[*Click an image to see the underlying details*]{.portfolio}
+
+::: {layout="[30,-5,30,-5,30]"}
+
+[![[My 2022 Recap]{.portfolio}](posts/imgs/portfolio/viz/recap.png){fig-alt="A connected scatterplot that shows all the places Caro visited in 2022."}](https://carobuck.com/posts/2022_recap.html)
+
+[![[Data Portraits @ Work]{.portfolio}](posts/imgs/ported_imgs/cia-portrait.png){fig-alt="data portraits, one for each member of my team. Each portrait is colorful rectangle with abstract shapes/doodles"}](https://carobuck.com/posts/cia-portraits.html)
+
+[![[Mom's Day]{.portfolio}](posts/imgs/ported_imgs/Moms_Day_2020.jpg){fig-alt="Floral inspired visualization with green, red, purple and yellow flowers on a gray background"}](https://carobuck.com/posts/moms-day-2020.html)
+
+[![[A Week of LOLs]{.portfolio}](posts/imgs/ported_imgs/lol_viz.jpg){fig-alt="The final visualization: a multitude of colorful hand-drawn symbols in a grid"}](https://carobuck.com/posts/week-of-lols.html)
+
+[![[TidyTuesday: Jan 12, 2021]{.portfolio}](posts/imgs/portfolio/viz/20210112_artwork.png){fig-alt="words"}](https://github.com/carobuck/tidyTuesday/blob/main/20210112_artwork.R)
+
+[![[TidyTuesday: Jan 19, 2021]{.portfolio}](posts/imgs/portfolio/viz/20210119_kenyacrops.png){fig-alt="words"}](https://github.com/carobuck/tidyTuesday/blob/main/20210119_kenyaCensus.R)
+
+[![[TidyTuesday: Jan 26, 2021]{.portfolio}](posts/imgs/portfolio/viz/plasticPollution.png){fig-alt="words"}](https://github.com/carobuck/tidyTuesday/blob/main/20210126_plasticPollution.R)
+
+[![[TidyTuesday: Jan 26, 2021]{.portfolio}](posts/imgs/portfolio/viz/plasticPollution_bernie.png){fig-alt="words"}](https://github.com/carobuck/tidyTuesday/blob/main/20210126_plasticPollution.R)
+
+![[TidyTuesday]{.portfolio}](posts/imgs/portfolio/viz/dubois.png){fig-alt="words"}
+
+:::
+::: {layout="[30,-5,30,-5,30]"}
+[![[TidyTuesday: Feb 9, 2021]{.portfolio}](posts/imgs/portfolio/viz/lifeWealth.png){fig-alt="words"}](https://github.com/carobuck/tidyTuesday/blob/main/20210209_lifetimeWealth.md)
+
+[![[TidyTuesday: Feb 23, 2021]{.portfolio}](posts/imgs/portfolio/viz/employstatus.png){fig-alt="words"}](https://github.com/carobuck/tidyTuesday/blob/main/20210223_employmentstatus.Rmd)
+
+![[]{.portfolio}](posts/imgs/portfolio/viz/moreviz.png){fig-alt="image says 'more coming soon'"}
+
+:::

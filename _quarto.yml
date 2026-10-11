@@ -1,0 +1,29 @@
+project:
+  type: website
+
+execute:
+  freeze: auto
+  
+website:
+  title: "Claire Buck"
+  #subtitle: "(and other things I won't shut up about)"
+  #google-analytics: "G-WM3Q5HHPPE"
+  #favicon: posts/imgs/sparkle.png
+  navbar:
+    right:
+      - href: aboutme.qmd
+        text: about
+      - href: game-portfolio.qmd
+        text: game portfolio
+      - href: art-portfolio.qmd
+        text: art portfolio
+
+format:
+  html:
+    theme: 
+      - litera
+      - styles.scss
+    toc: true
+
+
+
