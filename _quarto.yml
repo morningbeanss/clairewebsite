@@ -21,7 +21,7 @@ website:
 format:
   html:
     theme: 
-      - litera
+      - vapor
       - styles.scss
     toc: true
 

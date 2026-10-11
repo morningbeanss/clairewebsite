@@ -1,1 +1,46 @@
+---
+title: ""
+execute:
+  freeze: auto 
+---
+::: {.column-screen}
 im cool
+:::
+
+::: {.column-page}
+
+::: {layout="[40,60]"}
+
+::: {.div}
+</br>
+![](pics/me.jpg){fig-alt="Claire holding yellow sunflower bag. She is wearing a black and yellow dress."}
+:::
+::: {.div}
+
+::: {.header-welcome}
+### waddup nerds & freaks this is Claire command 
+:::
+
+*Senior at UC Santa Cruz* 
+
+Python | Quarto | Photoshop | DaVinci Resolve | Art
+
+*****
+
+im pretty cool
+
+*****
+
+**B.S. Computer Science: Computer Game Design** | *University of California Santa Cruz* | 2023 - 2027
+
+</br>
+*Want to talk more? Give a holler!*
+
+<a href="https://www.linkedin.com/in/claire-margaret/" class="btn btn-outline-info"><i class="bi bi-linkedin"></i> LinkedIn</a>
+<a href="https://github.com/morningbeanss" class="btn btn-outline-info"><i class="bi bi-github"></i> GitHub</a>
+
+:::
+:::
+:::
+
+
