@@ -18,26 +18,30 @@ im cool
 ::: {.div}
 
 ::: {.header-welcome}
-### waddup nerds & freaks this is Claire command 
+### Hello world! This is Claire Margaret speaking...
 :::
 
-*Senior at UC Santa Cruz* 
+*Senior @ U.C. Santa Cruz* 
 
-Python | Quarto | Photoshop | DaVinci Resolve | Art
+Python | Java | Quarto | Photoshop | DaVinci Resolve | Art
 
 *****
 
-im pretty cool
+Hi there! :>
+I'm a curiosity-driven fun-loving human who loves the small details of things. I'm passionate about expression, and want everything I create to have an air of care and authenticity you can feel. I have a knack for self-teaching, and can pick up new skills quickly because of that.
+Throughout my time in college, I have had much experience in creating games through rapid prototyping techniques. I have created games for both classes and out of personal passion, and have learned that my favorite parts of design are ideating, inventing & implementing unique mechanics, and audio & visual design. I thrive in both independent and teamwork settings, as I am a creative thinker, good listener, and excellent team leader.
+In my free time, you'll find me editing videos, creating wacky scenes in Photoshop, baking snickerdoodles, at the local metal scene, or skateboarding somewhere new.  
 
 *****
 
 **B.S. Computer Science: Computer Game Design** | *University of California Santa Cruz* | 2023 - 2027
 
 </br>
-*Want to talk more? Give a holler!*
+*Want to see what else I'm up to? Check out the links below!*
 
 <a href="https://www.linkedin.com/in/claire-margaret/" class="btn btn-outline-info"><i class="bi bi-linkedin"></i> LinkedIn</a>
 <a href="https://github.com/morningbeanss" class="btn btn-outline-info"><i class="bi bi-github"></i> GitHub</a>
+<a href="https://www.instagram.com/kryp_ta/" class="btn btn-outline-info"><i class="bi bi-instagram"></i> Instagram</a>
 
 :::
 :::
