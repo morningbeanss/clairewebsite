@@ -9,13 +9,20 @@ execute:
 :::
 
 ::: {.column-page-inset}
-# da$\cdot$ta par$\cdot$ty
-##### *noun* (pl: *data parties*) 
-### A gathering, formal or informal, to talk all things data. Can happen wherever, whenever, and everyone's invited!
+
+# 2 things you gotta know about me before we get started:
+
+<div style="text-align: center;">
+# "Life moves pretty fast. If you don't stop and look around once in a while, you could miss it."
+##### *-Ferris Bueller's Day Off*, 1986
+# &
+# "Nobody puts Baby in a corner!"
+##### *-Dirty Dancing*, 1987
+</div>
 
 <br/>
 
-So, what are we waiting for?! Let's get going and have some fun!  ![](posts/imgs/rconf_preso/emoji_party.png){width="30" height="30" fig-alt="Party face emoji"}
+So, what are we waiting for?! Click some links and see my work!
 
 :::
 ```{=html}
