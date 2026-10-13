@@ -5,14 +5,14 @@ execute:
   freeze: auto
   
 website:
-  title: "Claire Buck"
+  title: "claire margaret"
   #subtitle: "(and other things I won't shut up about)"
   #google-analytics: "G-WM3Q5HHPPE"
   #favicon: posts/imgs/sparkle.png
   navbar:
     right:
       - href: aboutme.qmd
-        text: about
+        text: about me
       - href: game-portfolio.qmd
         text: game portfolio
       - href: art-portfolio.qmd
